@@ -157,14 +157,14 @@ function agregarSimboloExclamacion(str) {
 
 function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
-  // Ejemplo: "Soy", "Henry" -> "Soy Henry"
+  // Ejemplo: "Soy", "Nere" -> "Soy Nere"
   // Tu código:
   
 }
 
 function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
-  // "Martin" -> "Hola Martin!"
+  // "Nere" -> "Hola Nere!"
   // Tu código:
   
 }
